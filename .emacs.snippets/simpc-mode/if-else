@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: if-else
+# key: <!else
+# --
+if($0)
+{
+
+}
+else
+{
+
+}
